@@ -31,5 +31,5 @@ echo "--------------------"
 echo "processes:"
 ps auxf --width=200
 echo "--------------------"
-echo "vmstat:"
+echo "vmstatus below....:"
 vmstat 1 5
